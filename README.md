@@ -176,8 +176,8 @@ You can delete it to reset all settings to default.
 
 ## 📁 Output Structure
 
-  D:/Decks/
-  └── Hakbal_An_Exploration_of_Merfolk/
+    D:/Decks/
+     └── Hakbal_An_Exploration_of_Merfolk/
       ├── Scryfall/
       │   ├── en/
       │   │   ├── proxy_01.jpg
